@@ -1,0 +1,17 @@
+package test;
+
+public class Twodiff {
+
+	public static void main(String[] args) {
+		
+		
+		int a = 1;
+		int b = 3;
+		
+		int k = (a>=b)? a-b : b-a;
+		
+		System.out.println("에이삐 차이: " + k);
+
+	}
+
+}

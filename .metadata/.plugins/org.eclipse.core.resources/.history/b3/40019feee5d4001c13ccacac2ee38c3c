@@ -1,0 +1,16 @@
+package test;
+
+public class test3 {
+
+	public static void main(String[] args) {
+
+		String[] a = {"aaa","bbb","ccc","ddd","eee"};
+		String[] b = new String[5];
+		
+		System.arraycopy(a, 0, b, 0, a.length);
+		
+		for (int i = 0; i < b.length; i++) {
+			System.out.print(b[i]+ "\t" );
+	}
+
+	}}

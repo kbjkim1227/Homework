@@ -1,0 +1,25 @@
+package P1004;
+
+import java.io.FileInputStream;
+import java.io.FileReader;
+import java.io.InputStream;
+import java.io.Reader;
+
+public class ReadExample2 {
+
+		public static void main(String[] args) throws Exception {
+		
+			Reader reader = new FileReader("c:/temp/test1.txt");
+
+		int readData;
+		byte[]readBytes = new byte[8];
+		readByteNo=is.read(readBytes,3,5);
+		for (int i = 0; i < readBytes.length; i++) {
+			System.out.println((char)readBytes[i]);
+			
+		}
+		is.close();
+
+	
+	}
+}

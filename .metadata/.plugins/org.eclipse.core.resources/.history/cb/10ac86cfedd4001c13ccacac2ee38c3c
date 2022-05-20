@@ -1,0 +1,17 @@
+package test;
+
+public class test3 {
+
+	public static void main(String[] args) {
+		
+		int[] b = { 1, 2, 3, 4, 5};
+
+		String[] a = {"aaa","bbb","ccc","ddd","eee"};
+		
+		
+		for (int i = 0; i < 5; i++) {
+			System.out.print(b[i] +"\t" + a[i]+ "\t" );
+	}
+
+	}
+	}

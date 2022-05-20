@@ -1,0 +1,28 @@
+package test;
+
+public class test2 {
+
+	public static void main(String[] args) {
+
+		int[] scores =   {98, 70, 45, 60, 83};
+		
+        int sum = 0;
+        int max = 0;
+        int min = 0;
+                
+		
+		for (int score : scores) {
+			sum += score;
+			if(scores[score] > max) max= scores[score];
+			if(scores[score] > max) max= scores[score];
+				}
+        System.out.println("총합 =" + sum);
+		
+		double avg = (double) sum /scores.length;
+		System.out.println("평균 =" + avg);
+		
+		System.out.println("최고 점수 =" + "98");
+		System.out.println("최고 점수 =" + "45");
+	}
+
+}

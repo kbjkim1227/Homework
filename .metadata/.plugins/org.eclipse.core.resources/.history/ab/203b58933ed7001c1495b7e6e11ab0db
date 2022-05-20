@@ -1,0 +1,19 @@
+package P1008;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.Writer;
+
+public class WriteExample1 {
+
+	public static void main(String[] args) throws IOException {
+		
+		Writer writer = new FileWriter("c:/temp/test1.txt");
+		char[] data = "홍길동".toCharArray();
+		
+
+		writer.flush();
+		writer.close();
+	}
+
+}
