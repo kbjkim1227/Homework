@@ -1,14 +1,14 @@
-package homework1_14;
+package homework1_14.HumanArray;
 
 import java.util.Scanner;
 
 
   class HumanArrayTester {
 
-	static void printHumanArray(Human[] a) {
-		for (int i = 0; i < a.length; i++) {
-			System.out.printf("No.%d %s %3dcm %3dkg\n",
-					i, a[i].getName(), a[i].getHeight(), a[i].getWeight());
+	  static void printHumanArray(Human[] a) {
+		   for (int i=0; i<a.length; i++)
+		      System.out.printf("No.%d %s %3dcm %3dkg\n" , 
+		            i , a[i].getName() , a[i].getHeight() , a[i].getWeight());
 		}
 		
 		public static void main(String[] args) {
@@ -58,13 +58,13 @@ import java.util.Scanner;
 				
 			}
 			
-			System.out.println("凸배열 p");
+			System.out.println("凸 배열 p");
 			printHumanArray(p);
 			
-			System.out.println("凸배열 q");
+			System.out.println("凸 배열 q");
 			printHumanArray(q);
 			
-			System.out.println("凸배열 x");
+			System.out.println("凸 배열 x");
 			for (int i = 0; i < x.length; i++) {
 				System.out.printf("%d행\n", i);
 				printHumanArray(x[i]);

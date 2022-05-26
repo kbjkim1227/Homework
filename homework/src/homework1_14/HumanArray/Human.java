@@ -1,4 +1,4 @@
-package homework1_14;
+package homework1_14.HumanArray;
 // 사람 클래스(ver.1)
 class Human {
 	String name;	//이름

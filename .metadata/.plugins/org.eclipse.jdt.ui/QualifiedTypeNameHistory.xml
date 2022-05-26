@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="java.awt.geom.Ellipse2D.Double"/>
     <fullyQualifiedTypeName name="java.util.spi.CalendarDataProvider"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
@@ -59,5 +57,7 @@
     <fullyQualifiedTypeName name="homework1_14.HumanArrayTester"/>
     <fullyQualifiedTypeName name="homework1_14.Human"/>
     <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="homework1_14.Day.Day"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="homework1_14.Human_03.Human"/>
 </qualifiedTypeNameHistroy>
