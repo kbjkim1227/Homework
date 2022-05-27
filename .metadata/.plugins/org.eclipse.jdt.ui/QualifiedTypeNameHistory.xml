@@ -45,7 +45,6 @@
     <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="P1020.InputStreamReaderExample"/>
     <fullyQualifiedTypeName name="java.nio.CharBuffer"/>
     <fullyQualifiedTypeName name="java.lang.FdLibm.Cbrt"/>
@@ -53,11 +52,12 @@
     <fullyQualifiedTypeName name="java.io.InputStream"/>
     <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
     <fullyQualifiedTypeName name="javax.crypto.interfaces.DHPublicKey"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="homework1_14.HumanArrayTester"/>
     <fullyQualifiedTypeName name="homework1_14.Human"/>
     <fullyQualifiedTypeName name="java.security.PublicKey"/>
     <fullyQualifiedTypeName name="homework1_14.Day.Day"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="homework1_14.Human_03.Human"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
