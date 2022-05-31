@@ -1,5 +1,6 @@
 package homework1_14.Human_03;
 
+
 //사람 클래스(Ver.3)
 class Human {
 	private String name;
