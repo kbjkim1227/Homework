@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
-    <fullyQualifiedTypeName name="chap5.Week"/>
     <fullyQualifiedTypeName name="p210.Car"/>
     <fullyQualifiedTypeName name="p238.Calculator"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
@@ -53,11 +51,13 @@
     <fullyQualifiedTypeName name="homework1_14.Human"/>
     <fullyQualifiedTypeName name="java.security.PublicKey"/>
     <fullyQualifiedTypeName name="homework1_14.Day.Day"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="homework1_14.Human_03.Human"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="homework1_14.Human_03.Day"/>
     <fullyQualifiedTypeName name="homework1_14.Period.Day"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
