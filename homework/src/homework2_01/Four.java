@@ -1,8 +1,13 @@
-package homework20220607;
+package homework2_01;
+
+import java.util.Scanner;
 
 public class Four {
 
 	public static void main(String[] args) {
+	      Scanner input = new Scanner(System.in);
+	      
+	      System.out.println("문자를 입력하세요.");
 
 		char a = 'C';
 		int b = (int)a;
