@@ -8,7 +8,7 @@ public class FIVE02 {
     public static void main(String[] args) {
         
         int num1,num2,num3;//숫자 3개 입력받을 변수 선언
-        int big,middle,small;//숫자 두개의 비교 값을 저장할 변수 선언
+        int big,small;//숫자 두개의 비교 값을 저장할 변수 선언
         
         Scanner input = new Scanner(System.in);
         System.out.print("숫자 입력 : ");
