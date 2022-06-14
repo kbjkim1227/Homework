@@ -1,16 +1,12 @@
-package homework;
+package homework2_06;
 
 import java.util.Scanner;
 
-public class kbjkim {
-	   /*
-	    * # 최대값 구하기[2단계]
-	    * 1. 반복횟수를 입력받는다. 
-	    * 2. 입력받은 반복횟수만큼 숫자를 입력받고 
-	    * 3. 입력받은 숫자 중 가장 큰 값을 출력한다.
-	    */
+public class Decimal2 {
+
 	   public static void main(String[] args) {
 	      Scanner sc = new Scanner(System.in);
+	      System.out.print("숫자입력 : ");
 	      int x = sc.nextInt();
 	      int cnt =0;
 	      /*

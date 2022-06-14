@@ -22,7 +22,7 @@ public class Yunyear {
         	System.out.println("프로그램을 종료하시겠습니까? 1.예 2.아니오");
         	num = scan.nextInt();
         	
-        }while(num ==1);	
+        }while(num ==2);	
         System.out.println("프로그램종료");
     }
 }
