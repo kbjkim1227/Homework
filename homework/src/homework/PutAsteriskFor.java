@@ -9,12 +9,16 @@ public class PutAsteriskFor {
 		Scanner stdIn = new Scanner(System.in);
 		System.out.println("몇개의 *를 표시할까요? :");
 		int n = stdIn.nextInt();
-		if (n > 0) {
-			for (int i = 0; i < n; i++)
-				System.out.printf("*" ,"\t");
-			System.out.println();
+
+
+			for (int i = 0; i < n; i++) {
+				if (n > 0);
+				System.out.print("*");
+			
+			}
+
 				
-	}
+
 	}
 }
 
